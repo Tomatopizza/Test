@@ -34,6 +34,5 @@ if submit:
     #DALL-E 그림 그리는 놈 한테 넣어줄 것임.
     # result = openai.Image.create(
     #     prompt=prompt,
-    #     size="1024x1024"
-    # )
+    #     size="1024x1024")
     # st.image(result["data"][0]["url"])
